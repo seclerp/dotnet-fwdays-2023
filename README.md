@@ -25,4 +25,4 @@ Blog posts
 
 Videos
 - [Blazor United prototype](https://youtu.be/48G_CEGXZZM) by Steven Sanderson
-- [Experiments with the new WASI workload](https://www.youtube.com/watch?v=gKX-cdqnb8I)https://www.youtube.com/watch?v=gKX-cdqnb8I in .NET 8 Preview 4 by Steven Sanderson
+- [Experiments with the new WASI workload in .NET 8 Preview 4](https://www.youtube.com/watch?v=gKX-cdqnb8I) by Steven Sanderson
