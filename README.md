@@ -1,4 +1,4 @@
-![Andrii Rublov](https://github.com/seclerp/dotnet-fwdays-2023/assets/20597871/5e909242-e684-46e5-a82c-5cccde8b4da0)
+![Andrii Rublov](Andrii%20Rublov.jpg)
 
 ## Recordings
 
