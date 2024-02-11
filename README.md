@@ -2,7 +2,7 @@
 
 ## Recordings
 
-Are not available yet. Coming soon.
+[![recording](https://img.youtube.com/vi/4zThdT3CUMM/0.jpg)](https://www.youtube.com/watch?v=4zThdT3CUMM)
 
 ## Slides
 
